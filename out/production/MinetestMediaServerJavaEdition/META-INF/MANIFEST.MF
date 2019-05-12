@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: Main
+Specification-Title: Minetest Media Server
+Implementation-Title: Minetest Media Server Java Edition
+Implementation-Version: 0.1-alpha
