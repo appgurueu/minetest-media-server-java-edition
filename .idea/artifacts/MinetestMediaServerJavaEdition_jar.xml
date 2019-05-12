@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MinetestMediaServerJavaEdition:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MinetestMediaServerJavaEdition_jar</output-path>
+    <root id="archive" name="MinetestMediaServerJavaEdition.jar">
+      <element id="module-output" name="MinetestMediaServerJavaEdition" />
+    </root>
+  </artifact>
+</component>
