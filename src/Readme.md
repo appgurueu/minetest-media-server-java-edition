@@ -20,7 +20,7 @@ Arguments :
 
 Example use :
 0. Change directory to the one you extracted it to, for example `cd /home/user/Downloads/MinetestMediaServerJavaEdition` 
-1. `cd out`
+1. `cd out/artifacts/MinetestMediaServerJavaEdition_jar`
 2. `java -jar MinetestMediaServerJavaEdition.jar 8000 /home/user/.minetest/games/mineclone2 /home/user/.minetest/games/nodecore`
 
 Will retrieve media from MineClone2 and NodeCore. Server will run on port 8000.
